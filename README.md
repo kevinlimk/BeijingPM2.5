@@ -1,8 +1,8 @@
 # Beijing PM2.5
 
-This study aims to use recorded [PM2.5 concentration data in Beijing](https://archive.ics.uci.edu/ml/datasets/PM2.5+Data+of+Five+Chinese+Cities) from 2010 to 2015 to construct a time series forecast that can predict daily PM2.5 concentration. Such a model could provide citizens a means of anticipating fluctuations in air quality in order to minimize exposure to air pollutants on days with especially high PM2.5 concentration level.
+This study uses recorded [PM2.5 concentration data in Beijing](https://archive.ics.uci.edu/ml/datasets/PM2.5+Data+of+Five+Chinese+Cities) from 2010 to 2015 to construct a time series forecast that can predict daily PM2.5 concentration. Such a model could provide citizens a means of anticipating fluctuations in air quality in order to minimize exposure to air pollutants on days with especially high PM2.5 concentration level.
 
-The time series forecast employed ARIMA and LSTM models.
+The time series forecast employs ARIMA and LSTM models.
 
 This project is organized into 3 Jupyter Notebooks:
 
