@@ -8,7 +8,7 @@ This project is organized into 3 Jupyter Notebooks:
 
 * [01_datawrangling.ipynb](https://github.com/kevinlimk/BeijingPM2.5/blob/master/01_datawrangling.ipynb) - Data cleaning to generate cleaned daily and hourly PM2.5 concentration data.
 * [02_eda.ipynb](https://github.com/kevinlimk/BeijingPM2.5/blob/master/02_eda.ipynb) - Exploratory data analysis to examine  hourly, weekly, and monthly trends in PM2.5 concentration along with correlations to temperature, pressure, humidity, dew point, and precipitation.
-* [03_featureengineering.ipynb](https://github.com/kevinlimk/BeijingPM2.5/blob/master/03_machinelearning.ipynb) - Machine learning using ARIMA and LSTM models to construct time series forecasts.
+* [03_machinelearning.ipynb](https://github.com/kevinlimk/BeijingPM2.5/blob/master/03_machinelearning.ipynb) - Machine learning using ARIMA and LSTM models to construct time series forecasts.
   
 Installation
 ---
