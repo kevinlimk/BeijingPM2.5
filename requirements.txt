@@ -1,5 +1,6 @@
 Keras==2.1.2
 matplotlib==2.0.2
+notebook==6.0.3
 numpy==1.12.1
 pandas==0.20.1
 scikit-learn==0.19.1
